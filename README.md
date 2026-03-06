@@ -22,6 +22,6 @@ I’m a web developer specializing in front-end development, passionate about cr
 #
 <b>Tech Stack & Tools</b>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,mysql,mongodb,git,github,figma,php,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap,react,mysql,mongodb,git,github,figma,php,laravel)](https://skillicons.dev)
 
 
