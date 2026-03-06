@@ -9,6 +9,7 @@
 
 I’m a web developer specializing in front-end development, passionate about crafting modern and user-friendly digital experiences. Beyond coding, I’m also interested in content creation and love sharing creativity through technology.
 
+**`Connect With Me`**
 <p align="left">
   <a href="https://instagram.com/raihandaffaa.dev">
     <img src="https://skillicons.dev/icons?i=instagram" />
@@ -17,3 +18,10 @@ I’m a web developer specializing in front-end development, passionate about cr
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
+
+#
+<b>Tech Stack & Tools</b>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,mysql,mongodb,git,github,figma,php,)](https://skillicons.dev)
+
+
