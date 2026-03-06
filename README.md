@@ -4,4 +4,7 @@
 
 </div>
 
-**`Front End Web Developer`**
+**`Front End Web Developer & Content Creator`**
+
+
+I’m a web developer specializing in front-end development, passionate about crafting modern and user-friendly digital experiences. Beyond coding, I’m also interested in content creation and love sharing creativity through technology.
