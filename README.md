@@ -4,10 +4,10 @@
 
 </div>
 
-**`Front End Web Developer & Content Creator`**
+**`Creative Web Developer`**
 
 
-I’m a web developer specializing in front-end development, passionate about crafting modern and user-friendly digital experiences. Beyond coding, I’m also interested in content creation and love sharing creativity through technology.
+I'm a Developer & Creator with 2+ years of experience turning ideas into functional reality. I focus on clean interfaces, modern tech stacks, and high-impact execution.
 
 **`Connect With Me`**
 <p align="left">
