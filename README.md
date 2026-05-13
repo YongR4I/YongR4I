@@ -22,7 +22,7 @@ I'm a Developer & Creator with 2+ years of experience turning ideas into functio
 #
 <b>Tech Stack & Tools</b>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,js,html,css,tailwind,bootstrap,react,mysql,nodejs,git,github,figma,php,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,js,html,css,tailwind,bootstrap,react,nextjs,mysql,nodejs,git,github,figma,php,laravel)](https://skillicons.dev)
 
 
 
