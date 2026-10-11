@@ -7,7 +7,7 @@
 **`Creative Web Developer`**
 
 
-I'm a Developer & Creator with 2+ years of experience turning ideas into functional reality. I focus on clean interfaces, modern tech stacks, and high-impact execution.
+I'm a Developer with 3+ years of experience turning ideas into functional reality. I focus on clean interfaces, modern tech stacks, and high-impact execution.
 
 **`Connect With Me`**
 <p align="left">
