@@ -1,7 +1,5 @@
 <div align="center">
-
-![Banner_YongR4i](https://github.com/YongR4I/YongR4I/blob/main/banner%20github.png?raw=true)
-
+  <img src="https://github.com/user-attachments/assets/e84c42fb-e6d0-47f7-a057-fb6ebbfb6bbc" alt="Frame 4438" width="100%" />
 </div>
 
 **`Creative Web Developer`**
